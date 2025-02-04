@@ -1,7 +1,7 @@
 # AKAD-TEST
 
-Für die Vorbereitung auf Klausuren sind oft alte Klausuren hilfreich, um Art und Umfang solcher Prüfungen in etwas abschátzen zu können.
-Aus diesem Grund veröffentliche ich in diesem Repository alle alten Klausuren, die ich selber im Verlauf der letzten Jahre erstellt haben.
+Für die Vorbereitung auf Klausuren sind oft alte Klausuren hilfreich, um Art und Umfang solcher Prüfungen abschátzen zu können.
+Aus diesem Grund veröffentliche ich in diesem Repository alle alten Klausuren, die ich selber im Verlauf der letzten Jahre erstellt habe.
 Der Zugriff auf die Dateien in diesem Repository ist _read only_ aber ansonsten mit keinen weiteren Bedingungen verknüpft.
 Ich bitte jedoch, folgendes zu beachten, reps. zu respektieren:
 
