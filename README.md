@@ -24,8 +24,9 @@ Ich bitte jedoch, folgendes zu beachten, reps. zu respektieren:
 
 Und sonst wünsch ich viel Vergnügen mit den Aufgaben und freue mich auf jeden konstruktiven Feedback zu dieser Sammlung.
 
-## Und zum Schluss noch dies...
+## Und zum Schluss noch dies
 
+Für alle, die jetzt schon eine mathematische Herausforderung suchen...
 Vereinfache folgenden Term so weit als möglich und schreibe ihn ohne negative Exponenten:
 
 $$ \left(\frac{16 a^{-3} b^2}{25 c^{-4}}\right)^{2} \cdot \left(\frac{8a^{-2}}{5 b^{-2} c^{-3}}\right)^{-3} $$
