@@ -8,7 +8,7 @@ Ich bitte jedoch, folgendes zu beachten, reps. zu respektieren:
 1) Der Inhalt der Dokumente, das Fileformat, die Formatierung, die verwendeten Schriften und insbesondere die vorhandenen oder eben _nicht_ vorhandenen Lösungen _sind so wie sie sind_.
    Ich kann leider auf keine Wünsche betr. Anpassung, Ergänzung, Neugestaltung dieser Files eingehen.
 3) Der Umfang einer anstehenden Klausur wird allein durch den Dozenten und durch den behandelten Stoff im Unterricht definiert und nicht durch die Prüfungsaufgaben des Vor- oder Vorvorjahres.
-4) Die Dateinamen sind den Abkürzungen der AKAD angelehnt und wie folgt aufgebaut:
+4) Die Dateinamen sind den Abkürzungen der AKAD angelehnt und wie in folgendem Beispiel aufgebaut:
    
    ```
    HK_TAL_12M_S2_2022_A.pdf
