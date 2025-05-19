@@ -17,12 +17,20 @@ Ich bitte jedoch, folgendes zu beachten, reps. zu respektieren:
    1) Als erstes steht der Klausur-Typ, wobei ZK für Zwischenklausuren steht (ev. ZK1 und ZK2 für eine erste, resp. zweite Zwischenklausur) und HK für Hauptklausuren.
       Da ich selber (noch) keine PP (Promotionsprüfung) oder gar AP (Abschlussprüfungen) erstellt habe, finden sich (noch) keine derartigen Klausurtypen in diesem Repository.
       Ich verweise dazu auf die sog. _Nuller-Serien_, welche bei der AKAD auf OpenOlat zu finden sind.
-   3) Als nächstes steht das Abteilungskürzel (GK: Gestaltung & Kunst; GS: Gesundheit & Sozialies; WD: Wirtschaft & Dienstleistung; TAL: Technik, Architektur & LifeSciences).
+   3) Als nächstes steht das Abteilungskürzel (GK: Gestaltung & Kunst; GS: Gesundheit & Soziales; WD: Wirtschaft & Dienstleistung; TAL: Technik, Architektur & Life-Sciences).
       Bei gemischten Klassen sind die Kürzel aller teilnehmenden Abteilungen zu sehen (wie bspw. GKGSWD oder GSWDD).
-   5) Der Studienweg und das Semester folgen als nächste Angaben (12M-S2 steht beispielsweise für die 12-monatige Ausbildung und das 2. Semester)
-   6) Und schliesslich folgt das Jahr der Erstellung dieser Prüfung, gefolgt von einem Buchstaben, mit welchem mehrere Serien (wie bspw. bei Nachklausuren) differenziert werden können.
+   5) Der Studienweg und das Semester folgen als nächste Angaben (12M-S2 steht beispielsweise für die 12-monatige Ausbildung im 2. Semester)
+   6) Und schliesslich folgt das Jahr der Erstellung dieser Prüfung, gefolgt von einem fortlaufenden Buchstaben, mit welchem mehrere Serien (wie bspw. bei Nachklausuren) differenziert werden können.
 
-Und sonst wünsch ich viel Vergnügen mit den Aufgaben und freue mich auf jeden konstruktiven Feedback zu dieser Sammlung
+Und sonst wünsch ich viel Vergnügen mit den Aufgaben und freue mich auf jeden konstruktiven Feedback zu dieser Sammlung.
+
+# Und zum Schluss noch dies...
+
+Vereinfache folgenden Term so weit als möglich und schreibe ihn ohne negative Exponenten:
+
+$$ \left(\frac{16 a^{-3} b^2}{25 c^{-4}}\right)^{2} \cdot \left(\frac{8a^{-2}}{5 b^{-2} c^{-3}}\right)^{-3} $$
+
+
 
 Stefan Mühlebach
 stefan.muehlebach@gmx.net
