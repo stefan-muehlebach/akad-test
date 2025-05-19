@@ -9,9 +9,11 @@ Ich bitte jedoch, folgendes zu beachten, reps. zu respektieren:
    Ich kann leider auf keine Wünsche betr. Anpassung, Ergänzung, Neugestaltung dieser Files eingehen.
 3) Der Umfang einer anstehenden Klausur wird allein durch den Dozenten und durch den behandelten Stoff im Unterricht definiert und nicht durch die Prüfungsaufgaben des Vor- oder Vorvorjahres.
 4) Die Dateinamen sind den Abkürzungen der AKAD angelehnt und wie folgt aufgebaut:
+   
    ```
    HK_TAL_12M_S2_2022_A.pdf
    ```
+   
    1) Als erstes steht der Klausur-Typ, wobei ZK für Zwischenklausuren steht (ev. ZK1 und ZK2 für eine erste, resp. zweite Zwischenklausur) und HK für Hauptklausuren.
       Da ich selber (noch) keine PP (Promotionsprüfung) oder gar AP (Abschlussprüfungen) erstellt habe, finden sich (noch) keine derartigen Klausurtypen in diesem Repository.
       Ich verweise dazu auf die sog. _Nuller-Serien_, welche bei der AKAD auf OpenOlat zu finden sind.
