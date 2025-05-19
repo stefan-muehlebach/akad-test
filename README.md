@@ -24,7 +24,7 @@ Ich bitte jedoch, folgendes zu beachten, reps. zu respektieren:
 
 Und sonst wünsch ich viel Vergnügen mit den Aufgaben und freue mich auf jeden konstruktiven Feedback zu dieser Sammlung.
 
-# Und zum Schluss noch dies...
+## Und zum Schluss noch dies...
 
 Vereinfache folgenden Term so weit als möglich und schreibe ihn ohne negative Exponenten:
 
