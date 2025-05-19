@@ -9,11 +9,16 @@ Ich bitte jedoch, folgendes zu beachten, reps. zu respektieren:
    Ich kann leider auf keine Wünsche betr. Anpassung, Ergänzung, Neugestaltung dieser Files eingehen.
 3) Der Umfang einer anstehenden Klausur wird allein durch den Dozenten und durch den behandelten Stoff im Unterricht definiert und nicht durch die Prüfungsaufgaben des Vor- oder Vorvorjahres.
 4) Die Dateinamen sind den Abkürzungen der AKAD angelehnt und wie folgt aufgebaut:
+
+```
+HK_TAL_12M_S2_2022_A.pdf
+```
    1) Als erstes steht der Klausur-Typ, wobei ZK für Zwischenklausuren steht (ev. ZK1 und ZK2 für eine erste, resp. zweite Zwischenklausur) und HK für Hauptklausur.
-      Da ich selber (noch) keine PP (Promotionsprüfung) oder gar AP (Abschlüssprüfungen) erstellt habe, finden sich keine derartigen Klausurtypen in diesem Repository.
+      Da ich selber (noch) keine PP (Promotionsprüfung) oder gar AP (Abschlussprüfungen) erstellt habe, finden sich (noch) keine derartigen Klausurtypen in diesem Repository.
+      Ich verweise dazu auf die sog. _Nuller-Serien_, welche bei der AKAD auf OpenOlat zu finden sind.
    3) Als nächstes steht das Abteilungskürzel (GK: Gestaltung & Kunst; GS: Gesundheit & Sozialies; WD: Wirtschaft & Dienstleistung; TAL: Technik, Architektur & LifeSciences).
-   4) Der Studienweg und das Semester folgen als náchste Angaben (12M-S2 steht beispielsweise für die 12-monatige Ausbildung und das 2. Semester)
-   5) Und schliesslich folgt das Jahr der Erstellung dieser Prüfung.
+   4) Der Studienweg und das Semester folgen als nächste Angaben (12M-S2 steht beispielsweise für die 12-monatige Ausbildung und das 2. Semester)
+   5) Und schliesslich folgt das Jahr der Erstellung dieser Prüfung, gefolgt von einem Buchstaben, mit welchem mehrere Serien (wie bspw. bei Nachklausuren) differenziert werden können.
 
 Und sonst wünsch ich viel Vergnügen mit den Aufgaben und freue mich auf jeden konstruktiven Feedback zu dieser Sammlung
 
